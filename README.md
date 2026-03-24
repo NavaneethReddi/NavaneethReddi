@@ -1,5 +1,5 @@
 # 💫 About Me:
-React, Java, Agular, Kafka, React micro front end
+React, Java, Angular, Kafka, React micro front end
 
 
 ## 🌐 Socials:
